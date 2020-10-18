@@ -1,0 +1,22 @@
+{
+  "name": "ugeneerg/telegramapiclient",
+  "description": "",
+  "type": "library",
+  "require": {
+
+  },
+  "license": "proprietary",
+  "autoload": {
+    "psr-4": {
+      "EugeneErg\\TelegramBotApiClient\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "require-dev": {
+
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "prefer-stable": true
+}
