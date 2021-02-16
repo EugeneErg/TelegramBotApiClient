@@ -3,7 +3,10 @@
   "description": "",
   "type": "library",
   "require": {
-
+    "php": "^7.1",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "moneyphp/money": "^3.3"
   },
   "license": "proprietary",
   "autoload": {
